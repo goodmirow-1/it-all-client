@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629767072914",
+    "project_id": "itallapp",
+    "storage_bucket": "itallapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629767072914:android:dd085c6b34adf621958a4b",
+        "android_client_info": {
+          "package_name": "kr.sheeps.itall_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629767072914-jlf292r5bqinoumthnid9uvc22tedd8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA10bjJh_NdDeWebeq7TVd0b_LCYokDFmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629767072914-jlf292r5bqinoumthnid9uvc22tedd8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
